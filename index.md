@@ -4,8 +4,8 @@ title: Welcome to Rick Davis' blog!
 
 # Welcome to Rick Davis' blog!
 
-[ ] To do #1
+- [ ] To do #1
 
-[ ] To do #2
+- [ ] To do #2
 
-[X] To do #3
+- [X] To do #3
