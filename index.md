@@ -1,6 +1,9 @@
 ---
 title: Welcome to Rick Davis' blog!
 ---
+
+# Welcome to Rick Davis' blog!
+
 [ ] To do #1
 
 [ ] To do #2
