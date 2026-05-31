@@ -1,7 +1,3 @@
----
-title: Welcome to Rick Davis' blog!
----
-
 # Welcome to my to-do list!
 
 - [ ] To do #1
